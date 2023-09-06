@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Compare Text</string>
+    <string name="text_1">Texto 1</string>
+    <string name="text_2">Texto 2</string>
+    <string name="compare">Comparar</string>
+    <string name="result_ok">Los textos son iguales.</string>
+    <string name="result_fail">Los textos son diferentes</string>
+    <string name="error_complete_both">Complete ambos campos.</string>
+</resources>
